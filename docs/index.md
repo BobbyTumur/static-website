@@ -1,17 +1,39 @@
-# Welcome to MkDocs
+# ようこそ！🌟
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+このサイトは、**Markdown と AWS をこよなく愛する人のための楽しい技術ドキュメント集**です。
 
-## Commands
+静的サイト？自動デプロイ？IaC？  
+「なんか聞いたことあるけど、よくわからん！」って人も、「全部やってるぜ💪」って人も大歓迎！
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+## 🔧 このサイトでできること
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Markdown だけでブログやドキュメントが書ける！
+- MkDocs + AWSで超手軽にデプロイ！
+- 自分だけの技術仕様書サイトが作れる！
+- QiitaやZennに頼らず、**自分の庭で発信できる！**
+
+---
+
+## 🧠 こんな人にオススメ！
+
+- AWS にちょっとでも興味がある人
+- Markdown を書いてるとテンション上がる人
+- 技術仕様書やチュートリアルを残したい人
+- 「Zenn? Qiita? いや、自分のサイトが欲しい！」って人
+
+---
+
+## 🔮 今後の予定
+
+- AWS SAM や Terraform で IaC デプロイ！
+- ダークモード対応！（したい…）
+- コメント機能？検索？まだまだやりたいことだらけ！
+
+---
+
+## 📣 ひとこと
+
+このサイトはまだ成長中のひよっこですが、少しずつ便利に楽しく進化させていきます🐣  
+ぜひ気軽にのぞいていってくださいね！
